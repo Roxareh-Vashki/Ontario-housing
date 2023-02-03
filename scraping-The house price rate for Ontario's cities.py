@@ -60,7 +60,7 @@ Ajax_Sales.head(60)
 # In[9]:
 
 
-Ajax_Sales.to_csv(r"C:\Users\rokhs\OneDrive\Documents\projects\house\csv from python\Ajax_Sales.csv")
+
 
 
 # In[10]:
@@ -96,7 +96,7 @@ table = get_data(url)
 
 
 Brampton_Sales=add_year(table)
-Brampton_Sales.to_csv(r"C:\Users\rokhs\OneDrive\Documents\projects\house\csv from python\Brampton_Sales.csv")
+
 
 
 # In[11]:
@@ -132,7 +132,7 @@ table = get_data(url)
 
 
 Richmondhill_Sales=add_year(table)
-Richmondhill_Sales.to_csv(r"C:\Users\rokhs\OneDrive\Documents\projects\house\csv from python\Richmondhill_Sales.csv")
+
 
 
 # In[12]:
@@ -168,7 +168,7 @@ table = get_data(url)
 
 
 aurora_Sales=add_year(table)
-aurora_Sales.to_csv(r"C:\Users\rokhs\OneDrive\Documents\projects\house\csv from python\aurora_Sales.csv")
+
 
 
 # In[13]:
@@ -204,7 +204,7 @@ table = get_data(url)
 
 
 markham_Sales=add_year(table)
-markham_Sales.to_csv(r"C:\Users\rokhs\OneDrive\Documents\projects\house\csv from python\markham_Sales.csv")
+
 
 
 # In[14]:
@@ -240,7 +240,7 @@ table = get_data(url)
 
 
 mississauga_Sales=add_year(table)
-mississauga_Sales.to_csv(r"C:\Users\rokhs\OneDrive\Documents\projects\house\csv from python\mississauga_Sales.csv")
+
 
 
 # In[15]:
@@ -276,7 +276,7 @@ table = get_data(url)
 
 
 newmarket_Sales=add_year(table)
-newmarket_Sales.to_csv(r"C:\Users\rokhs\OneDrive\Documents\projects\house\csv from python\newmarket_Sales.csv")
+
 
 
 # In[16]:
@@ -312,7 +312,7 @@ table = get_data(url)
 
 
 vaughan_Sales=add_year(table)
-vaughan_Sales.to_csv(r"C:\Users\rokhs\OneDrive\Documents\projects\house\csv from python\vaughan_Sales.csv")
+
 
 
 
